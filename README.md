@@ -1,6 +1,6 @@
 # Predictive Analysis on College Graduates' Salaries
 
-This Jupyter Notebook project utilizes Apache Spark, Pandas, scikit-learn, and Matplotlib to perform predictive analysis on the impact of college characteristics on graduates' salaries. The analysis is based on a dataset from Kaggle titled "Where it Pays to Attend College".
+This Jupyter Notebook is a course project for Big Data Analitycs, utilizing Apache Spark, Pandas, scikit-learn, and Matplotlib to perform predictive analysis on the impact of college characteristics to graduates' futures. The analysis is based on a dataset from Kaggle titled "Where it Pays to Attend College".
 
 ## Project Overview
 
