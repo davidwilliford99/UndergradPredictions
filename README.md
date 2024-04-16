@@ -40,6 +40,11 @@ Open the Jupyter Notebook in your preferred environment that supports `.ipynb` f
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your enhancements. For major changes, please open an issue first to discuss what you would like to change.
 
+### OG Contributors
+- David Williford
+- Matt Miranda
+- Francisco Maldonado
+
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
